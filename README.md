@@ -1,4 +1,4 @@
 # Welcome
 
 
-[a relative link](../OffsecExam/README.md)
+[a relative link](OffsecExam/README.md)
